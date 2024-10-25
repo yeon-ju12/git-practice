@@ -1,1 +1,1 @@
-This is file 3
+File 3 content
